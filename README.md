@@ -1,39 +1,25 @@
-# 📊 Assignment 1 – Summer Analytics 2025
+# 🚀 Summer Analytics 2025 – Assignment 1: Car Dataset Exploration
 
-**Project Title:** *Exploratory Data Analysis on Car Specifications Dataset*
-
-This project is part of the Summer Analytics 2025 program. The objective was to analyze a dataset containing information about cars — such as fuel efficiency, engine specifications, weight, and origin — and extract meaningful insights using Python-based data science tools.
-
----
-
-## ✅ Objectives
-
-- Perform basic data cleaning and preprocessing
-- Generate descriptive statistics
-- Create visualizations to identify trends and relationships
-- Compare fuel efficiency across different categories
-- Summarize key findings from the analysis
+Hi there! 👋  
+This repository showcases my data exploration journey using a classic car dataset as part of the **Summer Analytics 2025** program. It's not just about crunching numbers — it's about finding stories in data. 📊✨
 
 ---
 
-## 📂 Files Included
+## 📁 Project Structure
 
-| File | Description |
-|------|-------------|
-| `Assignment.ipynb` | Jupyter Notebook with the complete solution |
-| `Cars.csv` | Raw dataset containing car data |
+| File Name        | Description                                 |
+|------------------|---------------------------------------------|
+| `Assignment.ipynb` | Full Jupyter Notebook with analysis, visualizations, and insights |
+| `Cars.csv`         | The dataset containing car specifications from different eras      |
 
 ---
 
-## 🧪 Technologies Used
+## 🧰 Tech Stack & Libraries
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
-You can install the required packages using:
+- **Python 3.10+**
+- `pandas` – Data manipulation
+- `numpy` – Numerical operations
+- `matplotlib` & `seaborn` – Beautiful charts and plots
 
 ```bash
 pip install pandas numpy matplotlib seaborn
